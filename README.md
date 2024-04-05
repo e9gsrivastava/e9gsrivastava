@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @e9gsrivastava
+- 🌱 I’m currently learning python and django
+- 📫 can reach me at gsrivastava@enine.dev
