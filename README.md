@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @e9gsrivastava
-- 🌱 I’m currently learning python and django
+- 👋 Hi, I’m Gaurav.
+- 🌱 I’m currently working as Software developer.
 - 📫 can reach me at gsrivastava@enine.dev
