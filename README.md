@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Gaurav.
-- 🌱 I’m currently working as Software developer.
-- 📫 can reach me at gsrivastava@enine.dev
+Software Developer at 1E9 Advisors.
